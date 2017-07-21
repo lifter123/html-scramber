@@ -1,4 +1,4 @@
-const a = 'http://winphone.online';
+const a = 'http://ganhar.life';
 const b = 'http://www.topphoneapps.mobi/?sl=1862621-626da&data1=Track1&data2=Track2';
 const c = 0.15;
 
